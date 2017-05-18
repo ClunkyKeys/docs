@@ -1,0 +1,37 @@
+@font-face {
+	font-family: pixel;
+	src: url(emulogic.ttf) format("truetype");
+	
+	}
+@font-face {
+	font-family:PC Senior;
+	src: url(pcsenior.ttf); 
+	
+}
+
+b {
+	font-family: "PC Senior";
+}
+
+ul, li {
+	font-family: "PC Senior";
+}
+
+a {
+	font-family: "PC Senior";
+	font-size: 30px;
+}
+
+h1 {
+	font-family: "Comic Sans MS", cursive;
+	color: #0F0;
+}
+body {
+	background-color: #222;
+	}
+	
+h2 {
+	font-family:pixel;
+	font-size: 16px;
+	color:red
+	}
